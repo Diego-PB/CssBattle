@@ -72,5 +72,5 @@
 ## Code Version Sans Espace
 
 ```html
-<div class="a"></div><div class="b"></div><div class="c"></div><div class="d"></div><div class="e"><style> *{position:fixed;background:#1E1D50}.a{background:#1E1D50;width:140;  height:180;left:110;top:40;border-radius:90px;border:solid 20px #EEECF6}.b{background:#EEECF6; width:100;height:140;left:150;  top:80;border-radius:90px;}.c,.d{background:#1E1D50;  width:60;height:20;left:140; top:120}.d{top:160}.e{ background:#EEECF6;width:20;height:900;left:190;top:190;
+<div class="a"></div><div class="b"></div><div class="c"></div><div class="d"></div><div class="e"><style>*{position:fixed;background:#1E1D50}.a{background:#1E1D50;width:140;height:180;left:110;top:40;border-radius:90px;border:solid 20px #EEECF6}.b{background:#EEECF6; width:100;height:140;left:150;top:80;border-radius:90px}.c,.d{background:#1E1D50;width:60;height:20;left:140; top:120}.d{top:160}.e{background:#EEECF6;width:20;height:900;left:190;top:190
 ```
