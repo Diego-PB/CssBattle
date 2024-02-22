@@ -18,47 +18,54 @@
 ```html
 <a></a><b></b>
 <c></c>
-<d>
+<d></d>
+<e>
     <style>* {
-        background: #ACDDF9;
-        position: fixed;
-        margin: 0
+        background: #0D2328;
+        position: fixed
     }
 
-    a {
-        width: 400;
-        height: 300;
-        background-color: #0A6B91;
-        clip-path: polygon(25% 29.5%, 66% 29.5%, 75% 41%, 75% 71%, 25% 71%)
+    a, b, c {
+        background: #0D2328;
+        border: solid 20px #9ED7F8;
+        border-radius: 99q;
+        width: 60px;
+        height: 60px;
+        left: 50;
+        top: 140;
+        z-index: 6
     }
 
-    b, c {
-        background: #ACDDF9;
-        left: 125;
-        top: 113;
-        width: 100;
-        height: 35;
-        border-radius: 10q 10q 0 0
+    b {
+        left: 150;
+        top: 40
     }
 
     c {
-        rotate: 180deg;
-        top: 153
+        left: 250;
+        top: 140
     }
 
     d {
-        background: transparent;
-        top: 100;
-        width: 40;
-        height: 100;
-        border-left: solid #0A6B91 5px;
-        border-right: solid #0A6B91 5px;
-        left: 150
+        background: #0D2328;
+        border-left: solid 20px #9ED7F8;
+        border-right: solid 20px #9ED7F8;
+        width: 180;
+        height: 70;
+        left: 90;
+        bottom: 0
     }
+
+    e {
+        left: 190;
+        top: 120;
+        width: 20;
+        height: 900;
+        background: #9ED7F8
 ```
 
 ## Code Version Sans Espace
 
 ```html
-<a></a><b></b><c></c><d><style>*{background:#ACDDF9;position:fixed;margin:0}a{width:400;height:300;background-color:#0A6B91;clip-path:polygon(25% 29.5%,66% 29.5%,75% 41%,75% 71%,25% 71%)}b,c{background:#ACDDF9;left:125;top:113;width:100;height:35;border-radius:10q 10q 0 0}c{rotate:180deg;top:153}d{background:transparent;top:100;width:40;height:100;border-left:solid #0A6B91 5px;border-right:solid #0A6B91 5px;left:150}
+<a></a><b></b><c></c><d></d><e><style>*{background:#0D2328;position:fixed}a,b,c{background:#0D2328;border:solid 20px #9ED7F8;border-radius:99q;width:60px;height:60px;left:50;top:140;z-index:6}b{left:150;top:40}c{left:250;top:140}d{background:#0D2328;border-left:solid 20px #9ED7F8;border-right:solid 20px #9ED7F8;width:180;height:70;left:90;bottom:0}e{left:190;top:120;width:20;height:900;background:#9ED7F8
 ```
