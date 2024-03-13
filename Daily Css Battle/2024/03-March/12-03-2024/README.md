@@ -16,7 +16,37 @@
 ## Code Version Classique
 
 ```html
-<a></a><b></b><c><style>*{background:#085328;position:fixed}a,b{width:140;height:30;background:#0A9949;border-radius:9em;left:130;top:70;box-shadow:0 137q#0A9949;}b,c{width:180;left:110;top:50;background:#49C85B;box-shadow:0 180q#49C85B;}c{width:40;height:140;left:180;top:80;box-shadow:none
+<a></a><b></b>
+<c>
+    <style>* {
+        background: #085328;
+        position: fixed
+    }
+
+    a, b {
+        width: 140;
+        height: 30;
+        background: #0A9949;
+        border-radius: 9em;
+        left: 130;
+        top: 70;
+        box-shadow: 0 137q #0A9949;
+    }
+
+    b, c {
+        width: 180;
+        left: 110;
+        top: 50;
+        background: #49C85B;
+        box-shadow: 0 180q #49C85B;
+    }
+
+    c {
+        width: 40;
+        height: 140;
+        left: 180;
+        top: 80;
+        box-shadow: none
 ```
 
 ## Code Version Sans Espace
