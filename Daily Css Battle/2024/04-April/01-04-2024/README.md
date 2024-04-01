@@ -1,4 +1,4 @@
-# Daily Target Css Battle - 09/02/2024
+# Daily Target Css Battle - 01/04/2024
 
 <hr>
 
@@ -8,69 +8,34 @@
 
 <hr>
 
-### [Lien du Css Battle du jour](https://cssbattle.dev/play/Oi9KI18ltoYIRtsLl851)
+### [Lien du Css Battle du jour](https://cssbattle.dev/play/nyLtfFAYLNJc0E4bUfql)
 
 <br>
-<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_le0q4S1@2x.png?alt=media">
+<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dM81nqn.png?alt=media">
 
 ## Code Version Classique
 
 ```html
+<p><p a></p>
+<style>* {
+    background: #0A6190
+}
 
-<div class="a"></div>
-<div class="b"></div>
-<div class="c"></div>
-<div class="d"></div>
-<div class="e"></div>
-<style>
+p {
+    height: 200;
+    width: 145;
+    background: #EFF8FE;
+    margin: 50 47;
+    clip-path: polygon(14% 40%, 48% 40%, 100% 0, 100% 100%, 48% 60%, 14% 60%, 0% 50%)
+}
 
-    * {
-        position: fixed;
-        background: #1E1D50
-    }
-
-    .a {
-        background: #1E1D50;
-        width: 140;
-        height: 180;
-        left: 110;
-        top: 40;
-        border-radius: 90px;
-        border: solid 20px #EEECF6;
-    }
-
-    .b {
-        background: #EEECF6;
-        width: 100;
-        height: 140;
-        left: 150;
-        top: 80;
-        border-radius: 90px;
-    }
-
-    .c, .d {
-        background: #1E1D50;
-        width: 60;
-        height: 20;
-        left: 140;
-        top: 120;
-    }
-
-    .d {
-        top: 160
-    }
-
-    .e {
-        background: #EEECF6;
-        width: 20;
-        height: 900;
-        left: 190;
-        top: 190;
-    }
+[a] {
+    scale: -1;
+    margin: -250 192
 ```
 
 ## Code Version Sans Espace
 
 ```html
-<div class="a"></div><div class="b"></div><div class="c"></div><div class="d"></div><div class="e"><style>*{position:fixed;background:#1E1D50}.a{background:#1E1D50;width:140;height:180;left:110;top:40;border-radius:90px;border:solid 20px #EEECF6}.b{background:#EEECF6; width:100;height:140;left:150;top:80;border-radius:90px}.c,.d{background:#1E1D50;width:60;height:20;left:140; top:120}.d{top:160}.e{background:#EEECF6;width:20;height:900;left:190;top:190
+<p><p a></p><style>*{background:#0A6190}p{height:200;width:145;background:#EFF8FE;margin:50 47;clip-path:polygon(14%40%,48%40%,100%0,100%100%,48%60%,14%60%,0%50%)}[a]{scale:-1;margin:-250 192
 ```
