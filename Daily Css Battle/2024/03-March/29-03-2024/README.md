@@ -1,4 +1,4 @@
-# Daily Target Css Battle - 29/03/2024
+# Daily Target Css Battle - 01/04/2024
 
 <hr>
 
@@ -8,44 +8,34 @@
 
 <hr>
 
-### [Lien du Css Battle du jour](https://cssbattle.dev/play/0A61MAMZLeZiKVqz55Px)
+### [Lien du Css Battle du jour](https://cssbattle.dev/play/nyLtfFAYLNJc0E4bUfql)
 
 <br>
-<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_NyQm6aW.png?alt=media">
+<img src="https://firebasestorage.googleapis.com/v0/b/cssbattleapp.appspot.com/o/user%2Fummd3POvEDfFyeFvVdOMG3OOrwE2%2Ftargets%2Ftarget_dM81nqn.png?alt=media">
 
 ## Code Version Classique
 
 ```html
-<a><b></b>
-    <c>
-        <style>* {
-            background: #504371;
-            position: fixed
-        }
+<p><p a></p>
+<style>* {
+    background: #0A6190
+}
 
-        a, b {
-            background: #A6A0BE;
-            height: 30;
-            width: 400;
-            top: 135;
-            left: 0
-        }
+p {
+    height: 200;
+    width: 145;
+    background: #EFF8FE;
+    margin: 50 47;
+    clip-path: polygon(14% 40%, 48% 40%, 100% 0, 100% 100%, 48% 60%, 14% 60%, 0% 50%)
+}
 
-        b {
-            rotate: 90deg
-        }
-
-        c {
-            height: 90;
-            width: 90;
-            border: solid 32q #A6A0BE;
-            rotate: 45deg;
-            top: 75;
-            left: 125
+[a] {
+    scale: -1;
+    margin: -250 192
 ```
 
 ## Code Version Sans Espace
 
 ```html
-<a><b></b><c><style>*{background:#504371;position:fixed}a,b{background:#A6A0BE;height:30;width:400;top:135;left:0}b{rotate:90deg}c{height:90;width:90;border:solid 32q#A6A0BE;rotate:45deg;top:75;left:125
+<p><p a></p><style>*{background:#0A6190}p{height:200;width:145;background:#EFF8FE;margin:50 47;clip-path:polygon(14%40%,48%40%,100%0,100%100%,48%60%,14%60%,0%50%)}[a]{scale:-1;margin:-250 192
 ```
